@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kereba</string>
+    <string name="action_settings">Configuration</string>
+    <string name="nombre_points">0 pts</string>
+    <string name="texte_accueil">"vous devez corriger une ancienne epreuve du Bac ou Faire un test d'évaluation! pour gagner des points"</string>
+    <string name="title_activity_bienvenue"> KEREBA</string>
+    <string name="dummy_content">KEREBA \nReussir ensemble...</string>
+</resources>
